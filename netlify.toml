@@ -1,5 +1,2 @@
 [functions]
   directory = "functions"
-
-  [[functions.timeout]]
-    value = 30
