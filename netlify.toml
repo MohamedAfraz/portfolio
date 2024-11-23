@@ -1,3 +1,5 @@
 [functions]
-directory = "functions"
-timeout = 30
+  directory = "functions"
+
+  [[functions.timeout]]
+    value = 30
